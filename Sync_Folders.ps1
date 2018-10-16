@@ -16,6 +16,11 @@ $foldersALL = @(`
 	"KSP_FOV" `
     )
 
+$path = [System.Environment]::GetEnvironmentVariable("KSPGAMEDATA","Machine")
+
+# Delete all MiniAVC.dll
+Get-ChildItem -Path $path -Include MiniAVC.dll -File -Recurse | foreach { $_.Delete()}  
+
 if($updateGame)
 {    
     foreach($folder in $foldersCFG)
