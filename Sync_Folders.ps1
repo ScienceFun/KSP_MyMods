@@ -1,10 +1,11 @@
-﻿[bool]$updateGame = $False # If true, it will update Game folder, if false will update Project folder
+﻿[bool]$updateGame = $False # If $True, it will update Game folder, if $False will update Project folder
 
 $foldersCFG = @(`
     "Bluedog_DB" `
     ,"Bluedog_DB_Extras" `
     ,"Chatterer" `
     ,"KerbalEngineer" `
+    ,"TweakScale" `
     ,"PlayYourWay" `
 	,"SETIcontracts" `
     ,"SETIprobeParts" `
