@@ -10,6 +10,7 @@ $foldersCFG = @(`
     ,"TweakScale" `
     ,"PlayYourWay" `
     ,"PlanetShine" `
+    ,"scatterer" `
 	,"SETIcontracts" `
     ,"SETIprobeParts" `
     ,"RSSVE" `
