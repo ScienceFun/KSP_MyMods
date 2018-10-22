@@ -1,38 +1,45 @@
 KSP: 1.5 (Win64) - Unity: 2017.1.3p1 - OS: Windows 10  (10.0.0) 64bit
-[x] Science! - 5.17
+Camera Focus Changer - 1.0.4
+Kerbal Engineer Redux - 1.1.5.4
+
+ClickThroughBlocker - 0.1.6.7
+TexturesUnlimited - 1.1.2.15
+ToolbarControl - 0.1.6.16
 Astronomer's Visual Pack - 3.7.4
 BetterTimeWarpContinued - 2.3.10.1
 Camera Focus Changer - 1.0.4
-Chatterer - 0.9.95.2110
 Chatterer Extended - 0.6.2
-ClickThroughBlocker - 0.1.6.7
-CollisionFX - 4.0
+Chatterer - 0.9.95.2110
 Community Resource Pack - 0.10
 DistantObjectEnhancement - 1.9.1
 Environmental Visual Enhancements - 1.4.2.2
+EVAFollowerFollowed - 1.1.0.3
 Firespitter - 7.9
-Kerbal Alarm Clock - 3.9.1
-Kerbal Engineer Redux - 1.1.5.4
-Kerbal Inventory System - 1.14.6773.33741
+KAS - 1.0.6845.42939
+
 KerbalGPS - 1.1.0.10
 Kerbalism - 2.0
-Kopernicus - 1.5.0.1
+Kerbal Inventory System - 1.14.6773.33741
+<b><color=#CA7B3C>Kopernicus</color></b> - 1.5.0.1
 KSP-AVC Plugin - 1.2.0.2
+Lights Out - 0.2.2
 LoadingScreenManager - 1.2.5.1
 ModularFlightIntegrator - 1.2.5
+NavBallDockingAlignmentIndicatorCE - 1.0.4.2
 PlanetShine - 0.2.6.1
 Play Your Way - 1.0.7
 QuickStart - 2.1.6
 ReentryParticleEffect - 1.3
+ScienceAlert - 1.9.4.2
 Science Relay - 1.0.5.1
+Ship Effects Continued - 1.0.8.4
 StageRecovery - 1.8
-TextureReplacer - 3.2
 TextureReplacerReplaced - 0.5.4
-TexturesUnlimited - 1.1.2.15
 ToadicusToolsContinued - 0.22.3.1
-ToolbarControl - 0.1.6.16
 Trajectories - 2.2
+Kerbal Alarm Clock - 3.9.1
 TweakableEverything - 0.1.24.2
 TweakScale - 2.3.12
 VaporVent - 1.1.9
 WASDEditorCameraContinued - 0.6.13.2
+Waypoint Manager - 2.7.2
